@@ -1,0 +1,1 @@
+[19-Jun-2017 19:46:41 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/h2spark/public_html/wp-content/themes/hspk/comments.php on line 18
